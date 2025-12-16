@@ -33,4 +33,4 @@ Open to frontend and full-stack roles with opportunities to work on real-world p
 
 ## 🔗 Links
 - GitHub: https://github.com/Jasin445
-- Portfolio: jason-dagana.vercel.app
+- Portfolio: https://jason-dagana.vercel.app
